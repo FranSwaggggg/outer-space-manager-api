@@ -41,7 +41,7 @@ var seed = {
           'buildingId': 2,
           'name': 'Mine automatisée',
           'imageUrl': 'http://www.raphaelbischof.fr/img/mine.jpg',
-          'effectAdded': 'mineral_modifier',
+          'effect': 'mineral_modifier',
           'amountOfEffectByLevel': 100,
           'amountOfEffectLevel0': 100,
           'timeToBuildByLevel': 200,
